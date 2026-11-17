@@ -31,7 +31,7 @@ and Cursor registers itself with Stellar's sign-in server automatically
   "mcpServers": {
     "stellar": {
       "type": "http",
-      "url": "https://cesjjpttmyjzydulnqdz.supabase.co/functions/v1/agent-mcp"
+      "url": "https://api.workstellar.ai/functions/v1/agent-mcp"
     }
   }
 }
