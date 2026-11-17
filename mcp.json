@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stellar": {
+      "type": "http",
+      "url": "https://cesjjpttmyjzydulnqdz.supabase.co/functions/v1/agent-mcp"
+    }
+  }
+}

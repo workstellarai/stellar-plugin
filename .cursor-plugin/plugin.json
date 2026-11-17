@@ -1,0 +1,34 @@
+{
+  "name": "workstellar",
+  "displayName": "Workstellar.ai",
+  "version": "0.3.0",
+  "description": "Work in Stellar, a property-operations platform, from your AI agent: read and update work orders and their threads, photos and PDFs, keep the Compliance register of permits and inspections, each location's details and equipment list, read the company's KPIs, and chase what is slipping. Each person signs in with their own Workstellar account over OAuth, and the agent acts as them, within what their role allows.",
+  "author": {
+    "name": "Workstellar",
+    "email": "support@workstellar.ai"
+  },
+  "homepage": "https://workstellar.ai",
+  "repository": "https://github.com/workstellarai/stellar-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "stellar",
+    "workstellar",
+    "work orders",
+    "property operations",
+    "facilities",
+    "maintenance",
+    "permits",
+    "compliance",
+    "equipment",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "work orders",
+    "property operations",
+    "compliance",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
